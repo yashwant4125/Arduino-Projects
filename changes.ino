@@ -1,3 +1,6 @@
+//Room Temperature Controller using Arduino uno, 1 Channel 5V Relay Board Module For Arduino, 
+//4x4 Matrix Membrane Keypad (#27899), LM35 Precision Centigrade Temperature Sensors, 
+//I2C 1602 LCD with I2C interface, and jumper wires
 
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>  //for LCD display with I2C interface
